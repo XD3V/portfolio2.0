@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/XD3V/portfolio2.0/static/css/main.5f361e03.chunk.css",
+    "main.js": "/XD3V/portfolio2.0/static/js/main.706fbc4c.chunk.js",
+    "main.js.map": "/XD3V/portfolio2.0/static/js/main.706fbc4c.chunk.js.map",
+    "runtime-main.js": "/XD3V/portfolio2.0/static/js/runtime-main.4a2db6a5.js",
+    "runtime-main.js.map": "/XD3V/portfolio2.0/static/js/runtime-main.4a2db6a5.js.map",
+    "static/js/2.6aa10b31.chunk.js": "/XD3V/portfolio2.0/static/js/2.6aa10b31.chunk.js",
+    "static/js/2.6aa10b31.chunk.js.map": "/XD3V/portfolio2.0/static/js/2.6aa10b31.chunk.js.map",
+    "index.html": "/XD3V/portfolio2.0/index.html",
+    "precache-manifest.194918d715dbc68a5706673c22288079.js": "/XD3V/portfolio2.0/precache-manifest.194918d715dbc68a5706673c22288079.js",
+    "service-worker.js": "/XD3V/portfolio2.0/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/XD3V/portfolio2.0/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6aa10b31.chunk.js.LICENSE.txt": "/XD3V/portfolio2.0/static/js/2.6aa10b31.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/XD3V/portfolio2.0/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2db6a5.js",
+    "static/js/2.6aa10b31.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.706fbc4c.chunk.js"
+  ]
+}
